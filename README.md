@@ -1,4 +1,5 @@
 # Doctor-Fee-Prediction
+![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/e873a621-a51d-4e47-af92-9db45ec52b1c)
 
 # Objective
 Create a machine learning model to predict doctor’s fee
