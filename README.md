@@ -1,9 +1,19 @@
 # Doctor-Fee-Prediction
 ![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/e873a621-a51d-4e47-af92-9db45ec52b1c)
 
+# Tools & Technologies Used
+![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/45351c55-f3d3-4721-86d6-30c0e4bbd68e)
+
 # Objective
 Create a machine learning model to predict doctor’s fee
 Creating a webpage for user to get accurate prediction of fee based on multiple factors
+
+# OUR APPROACH FOR THE PROJECT
+![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/3ea4bb7a-6da9-4698-bdbd-3dc60e0cc4a2)
+
+# User's Manual
+
+
 
 ## Web Scraping
 import numpy as np
