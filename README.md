@@ -12,6 +12,7 @@ Creating a webpage for user to get accurate prediction of fee based on multiple 
 ![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/3ea4bb7a-6da9-4698-bdbd-3dc60e0cc4a2)
 
 # User's Manual
+![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/fc9f0b0b-ce13-4f24-946b-629e803315dd)
 
 
 
