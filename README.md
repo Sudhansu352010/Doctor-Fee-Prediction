@@ -79,6 +79,8 @@ Creating a webpage for user to get accurate prediction of fee based on multiple 
 # Distribution of  year of experience
 ![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/e7aaa642-9722-4285-8638-63fa1bc0421b)
 
+# Webpage Implementation
+![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/565cf77b-2249-49fc-ba86-e5700586f126)
 
 
 # Key Insights
@@ -97,3 +99,9 @@ Creating a webpage for user to get accurate prediction of fee based on multiple 
 7. Locations like Saket in Delhi have the highest concentration of doctors.
 
 8. The most common degree among doctors is BDS.
+
+# Challenges Faced
+1. Using Flask to deploy machine learning model
+
+2. Integrating it seamlessly with HTML and JavaScript for a user-friendly web application.
+
