@@ -1,6 +1,6 @@
 # Doctor-Fee-Prediction
 ![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/e873a621-a51d-4e47-af92-9db45ec52b1c)
-![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/96c205dc-d66a-4b01-a936-44953e72eea4)
+
 
 # Tools & Technologies Used
 ![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/45351c55-f3d3-4721-86d6-30c0e4bbd68e)
