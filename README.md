@@ -5,6 +5,10 @@
 # Tools & Technologies Used
 ![image](https://github.com/Sudhansu352010/Doctor-Fee-Prediction/assets/131376814/45351c55-f3d3-4721-86d6-30c0e4bbd68e)
 
+# Description of the project:
+ The "Doctor-Fee-Prediction," seeks to develop a machine learning model capable of accurately estimating doctor consultation fees by leveraging various input factors. The methodology involves data retrieval from Practo, followed by Python-based data cleaning, exploratory data analysis, outlier handling, and model construction. Key findings highlight trends such as the prevalence of certain medical specialties, geographic disparities in doctor distribution, and the impact of experience on consultation fees. Challenges include deploying the model using Flask and ensuring smooth integration with HTML and JavaScript for an intuitive web interface.
+
+
 # Objective
 Create a machine learning model to predict doctor’s fee
 Creating a webpage for user to get accurate prediction of fee based on multiple factors
